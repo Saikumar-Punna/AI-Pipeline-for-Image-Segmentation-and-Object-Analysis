@@ -1,6 +1,3 @@
-
-#### `models/segmentation_model.py`
-```python
 import torch
 from torchvision import models, transforms
 import cv2
